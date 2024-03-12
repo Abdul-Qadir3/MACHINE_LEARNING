@@ -44,3 +44,9 @@ A type of Machine Learning that doesn't require labled data
 - 9. `Model Finalization` by multi data validation
 - 10. `Deploy Model` like on App, webapp, software -> MLOps
 - 11. `Retest`, `Update`, control the `versioning`, and `Monitor`
+
+## Algorithm
+Set of `instructions` given to an `AI system` to help it learn from data
+![alt text](image-13.png)
+## Training and testing Data
+![alt text](image-12.png)
