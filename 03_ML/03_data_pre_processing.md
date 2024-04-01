@@ -1,4 +1,4 @@
-## Data Preprocessing includes
+## Steps Data Preprocessing includes
 80% of the time is spent in <b>`Data Processing`</b>.
 ### 1. `Cleaning data`, Tidy up
 Handling missing values and outliers, transforming variables, encoding categorical features, etc. 
@@ -10,7 +10,7 @@ Handling missing values and outliers, transforming variables, encoding categoric
 ### 3. `Data Transformation`
 <b>Includes</b>
 - 1. Data Scaling
-- 2. Normalization
+- 2. Data Normalization
 - 3. Data Aggregation(Combinig two or `more variables`)
 - 4. Data Generalization(take data to broader level)
       - Includes bining(like in `age` column)
@@ -30,7 +30,8 @@ Handling missing values and outliers, transforming variables, encoding categoric
       - Reducing English `alphabits` to  `numeric`
 - 3. `Data COmpression`
 
-### 5. `Data Discretization`
+### 5. `Data Discretization` 
+numerical to categorical
 - Conversion of `numeric` data into `Nominal Variables`
 
 ## Summary Of data Pre-Processing
